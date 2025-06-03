@@ -12,3 +12,5 @@ Matplotlib
 Seaborn
 (Aunque esta ultimas dos no las ocupe las imprte por cualqueir duda o comandos que llegara ocupar)
 
+Esta tambien el nuevo archivo csv que importe ya limpio para utilizar y el original tambien 
+
